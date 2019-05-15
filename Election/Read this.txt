@@ -1,0 +1,13 @@
+Create mysql database named election.
+Import the file election.sql
+
+
+Administrator Login Details
+
+Email = admin@admin.com
+Password = admin
+
+
+User Login Detail example
+Email = user@user.com
+Password = user
